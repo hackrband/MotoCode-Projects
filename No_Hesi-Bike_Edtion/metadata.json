@@ -1,0 +1,5 @@
+{
+  "name": "No Hesi: Bike Edition",
+  "description": "A 3D street bike game inspired by No Hesi. Dodge traffic at high speeds and see how far you can go. Built with React, Three.js, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
