@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard (Alpha 1)",
+  "description": "A realistic motorcycle simulation with manual gear shifting, clutch control, and engine heat management.",
+  "requestFramePermissions": []
+}
